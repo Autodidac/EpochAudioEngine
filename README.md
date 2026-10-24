@@ -75,8 +75,14 @@ its code. Separate files in a larger application can use another license.
 
 ### Recommended, entirely optional
 
-- [ ] Give visible credit and link to [this repository](https://github.com/Autodidac/EpochAudioEngine) and
-  [EpochEngine](https://github.com/Autodidac/EpochEngine) in your About screen or README.
+- [ ] Make the library's origin and [source repository](https://github.com/Autodidac/EpochAudioEngine) easy for
+  other developers to find in dependency metadata, credits, notices or technical
+  documentation. No particular README or About-screen placement is requested.
+- [ ] If you credit comparable libraries or tools, include this library alongside
+  them instead of obscuring its role. A factual link to
+  [EpochEngine](https://github.com/Autodidac/EpochEngine) also helps support the work.
+- [ ] Explain your own additions accurately. A wrapper, new name or small feature
+  does not make the underlying library your original invention.
 - [ ] Share useful fixes, features, tests and documentation through a
   [pull request](https://github.com/Autodidac/EpochAudioEngine/pulls); accepted contributions receive author credit.
 - [ ] Follow [CONTRIBUTING.md](CONTRIBUTING.md) when choosing to contribute.
