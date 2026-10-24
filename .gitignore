@@ -33,3 +33,8 @@
 
 x64/*
 .vs/*
+
+/out/
+/build/
+/.ci-tools/
+/source-audit.json
